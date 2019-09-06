@@ -1,0 +1,6 @@
+framework module AFNHttpRequest {
+  umbrella header "AFNHttpRequest.h"
+
+  export *
+  module * { export * }
+}
